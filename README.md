@@ -25,3 +25,5 @@ I enjoy solving real-world problems through code and continuously learning new t
 
 ## 📫 Connect with Me
 - [LinkedIn] https://www.linkedin.com/in/clairepark031
+- Email : clairepark031@gmail.com
+- Based in Vancouver
